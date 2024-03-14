@@ -1,2 +1,4 @@
 Get the user data...
-process
+processgit 
+
+Create an avatar for user
